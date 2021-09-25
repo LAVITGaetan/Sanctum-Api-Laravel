@@ -1,3 +1,5 @@
-## About Laravel
+## INTRODUCTION
 
-API REST avec Laravel 8 + Sanctum et Postman
+API REST réalisée avec Laravel 8
+Authentification Laravel Sanctum
+Utilisé avec Postman
